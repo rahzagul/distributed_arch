@@ -5,4 +5,4 @@ HDPcoresite001a --> Hadoop Data Sci Agility core-site
 
 HDPhdfssite001a --> Hadoop Data Sci Agility hdfs-site
 
-Sparkenvsh001a --> Spark config gile
+Sparkenvsh001a --> Spark config file
