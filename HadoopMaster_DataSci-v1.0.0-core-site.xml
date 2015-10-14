@@ -25,7 +25,7 @@
 
   <property>
     <name>fs.default.name</name>
-    <value>hdfs://ec2-54-173-148-50.compute-1.amazonaws.com:8020</value>
+    <value>hdfs://ec2-54-88-162-75.compute-1.amazonaws.com:8020</value>
   </property>
 
   <property>
