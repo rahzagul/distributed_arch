@@ -53,8 +53,8 @@
 ### === IMPORTANT ===
 ### Change the following to specify a real cluster's Master host
 ###
-export STANDALONE_SPARK_MASTER_HOST=ec2-54-174-208-238.compute-1.amazonaws.com
-export SPARK_LOCAL_IP=ec2-54-174-208-238.compute-1.amazonaws.com
+export STANDALONE_SPARK_MASTER_HOST=ec2-52-23-225-184.compute-1.amazonaws.com
+export SPARK_LOCAL_IP=ec2-52-23-225-184.compute-1.amazonaws.com
 
 export SPARK_MASTER_IP=$STANDALONE_SPARK_MASTER_HOST
 
