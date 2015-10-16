@@ -5,7 +5,6 @@ HOSTNAME=`echo $USER_DATA`
 IPV4=`/usr/bin/curl -s http://169.254.169.254/latest/meta-data/local-ipv4`
 
 sudo -s <<EOF
-rm /etc/hostname
 hostname $HOSTNAME
 echo $HOSTNAME > /etc/hostname
 EOF
